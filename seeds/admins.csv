@@ -1,0 +1,6 @@
+EmployeeID,GivenName,LastName,Email
+101,John,Green,admin.one@ucalgary.ca
+102,Brandon,Sanderson,admin.two@ucalgary.ca
+103,Rick,Riordan,admin.three@ucalgary.ca
+104,Stephen,King,admin.four@ucalgary.ca
+105,Douglas,Adams,admin.five@ucalgary.ca

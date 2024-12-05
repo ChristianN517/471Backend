@@ -1,0 +1,35 @@
+ConcentrationID,Name,ProgramID
+1,Computer Game Development,CPSC_MAJ
+2,Software Engineering,CPSC_MAJ
+3,Theoretical Computer Science,CPSC_MAJ
+4,Scientific Computation,CPSC_MAJ
+5,Human-Computer Interactions,CPSC_MAJ
+6,Computer Graphics,CPSC_MAJ
+7,Information Security,CPSC_MAJ
+8,Networks and Distributed Computing,CPSC_MAJ
+9,Visualization and Analytics,CPSC_MAJ
+10,Actuarial Science,DATA_MAJ
+11,Anthropology,DATA_MAJ
+12,Archeology,DATA_MAJ
+13,Astrophysics,DATA_MAJ
+14,Biological Sciences,DATA_MAJ
+15,Chemistry,DATA_MAJ
+16,Communication and Media Studies,DATA_MAJ
+17,Economics,DATA_MAJ
+18,Gender and Sexuality Studies,DATA_MAJ
+19,Global Development Studies,DATA_MAJ
+20,Geography,DATA_MAJ
+21,Geology,DATA_MAJ
+22,Geophysics,DATA_MAJ
+23,History,DATA_MAJ
+24,History of Philosophy of Science,DATA_MAJ
+25,International Indigenous Studies,DATA_MAJ
+26,Law and Society,DATA_MAJ
+27,Linguistics,DATA_MAJ
+28,Mathematics,DATA_MAJ
+29,Nanoscience,DATA_MAJ
+30,Physics,DATA_MAJ
+31,Political Science,DATA_MAJ
+32,Sociology,DATA_MAJ
+33,Statistics,DATA_MAJ
+34,Urban Studies,DATA_MAJ

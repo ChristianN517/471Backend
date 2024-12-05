@@ -1,0 +1,22 @@
+DepartmentCode,FacultyID,Name
+BIOL,1,Biological Sciences
+CHEM,1,Chemistry
+CPSC,1,Computer Science
+GEOS,1,Geoscience
+MATH,1,Mathematics and Statistics
+PHYS,1,Physics and Astronomy
+ANTH,2,Anthropology and Archaeology
+ARTA,2,Art and Art History
+CLAS,2,Classics and Religion
+COMM,2,Communication Media and Film
+CPAS,2,Creative and Performing Arts (School of)
+ECON,2,Economics
+ENGL,2,English
+GEOG,2,Geography
+HIST,2,History
+LLLC,2,Languages Linguistics Literatures and Cultures (School of)
+PHIL,2,Philosophy
+POLS,2,Political Science
+PSYC,2,Psychology
+SOCI,2,Sociology
+SENG,3,Software Engineering

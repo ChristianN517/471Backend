@@ -1,0 +1,4 @@
+ProgramID,Name,Description,Type,OfferedByFaculty,RequiredUnits
+CPSC_MAJ,Computer Science Major,"Undergraduate BA program focusing on foundational and advanced computer science concepts.",major,3,120
+CPSC_MIN,Computer Science Minor,"The Computer Science Minor program offers foundational and advanced knowledge in computer science, requiring a combination of core and elective courses from the field of Computer Science.",minor,3,60
+DATA_MAJ,Data Science Major,"A comprehensive Data Science program focusing on foundational and advanced topics in data analysis, machine learning, and interdisciplinary applications.",major,7,120
